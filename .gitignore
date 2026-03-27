@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# --- Environment & Secrets ---
+.env
+serviceAccountKey.json
+
+# --- Python Virtual Environment ---
+.venv/
+__pycache__/
+*.pyc
+
+# --- OS Metadata ---
+.DS_Store
+Thumbs.db
